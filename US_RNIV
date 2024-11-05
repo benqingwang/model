@@ -1,0 +1,36 @@
+In the United States, **Risk Not in Value at Risk (RNIV)** requirements are not explicitly labeled as such but are addressed within the broader **market risk framework** established by regulators, including the **Federal Reserve (Fed)**, the **Office of the Comptroller of the Currency (OCC)**, and the **Federal Deposit Insurance Corporation (FDIC)**. The main guidance on capturing and capitalizing risks not covered by VaR models falls under the regulatory requirements for **market risk capital** and **comprehensive risk management** for banks and financial institutions.
+
+Here are the key elements of the U.S. requirements for capturing RNIV:
+
+### 1. **Market Risk Rule under Basel III (12 CFR Parts 3, 208, 217, and 324)**
+   - **Comprehensive Risk Capture**: U.S. regulators require banks to capture all material risks within their internal models, which includes those that might be inadequately covered by VaR. This involves recognizing gaps in the VaR model’s ability to account for risks and ensuring these are addressed through alternative measures.
+   - **Stressed VaR**: Institutions must compute **Stressed VaR (sVaR)** to capture extreme market conditions that may fall outside typical VaR measurements. This includes periods of financial stress or illiquidity that are not adequately reflected in historical VaR.
+   - **Incremental Risk Charge (IRC)**: For credit-sensitive instruments, the **Incremental Risk Charge** requires banks to hold capital against the risk of default and migration events over a one-year horizon, incorporating market and credit risks that may not be fully reflected in the VaR model.
+
+### 2. **Model Validation and Back-Testing Requirements**
+   - Banks are required to conduct **regular back-testing** and **validation** of their models to ensure they adequately capture all significant risk factors. This includes assessing any potential gaps where the VaR model may not fully account for specific risks, leading to RNIV.
+   - The **OCC Bulletin 2011-12** emphasizes that banks should regularly validate their models and adjust them as necessary to capture all relevant risks, which indirectly includes RNIV.
+
+### 3. **Capital Requirements for Comprehensive Risk Measure (CRM)**
+   - For complex and less liquid exposures, such as securitization positions and correlation trading, U.S. banks must apply a **Comprehensive Risk Measure (CRM)**, which is designed to cover risks that may not be adequately captured by traditional VaR models.
+   - The CRM mandates that banks calculate the capital requirements based on **expected shortfall** (a measure beyond VaR) and must incorporate the effects of illiquidity and tail risks.
+
+### 4. **Supervisory Guidance on Model Risk Management (SR 11-7)**
+   - The **Federal Reserve’s Supervisory Guidance on Model Risk Management (SR 11-7)** requires banks to implement a robust **model risk management framework**, which includes identifying and managing risks that models fail to capture, like RNIV.
+   - This guidance directs banks to document model limitations, including any risks not adequately covered by VaR, and implement compensating controls or additional capital as needed to address these limitations.
+
+### 5. **Scenario Analysis and Stress Testing (Dodd-Frank Act Stress Testing - DFAST)**
+   - Under the **Dodd-Frank Act Stress Testing (DFAST)** requirements, banks must perform stress tests that simulate severe economic and financial scenarios. These tests are designed to capture risks that might not be fully reflected in VaR models, particularly for events with low probability but high impact.
+   - Scenario analysis is used to assess specific RNIV factors, like basis risks, correlation risks, and extreme illiquidity conditions, ensuring comprehensive coverage beyond the standard VaR model assumptions.
+
+### 6. **Supervisory Review and ICAAP**
+   - Under **Pillar 2 of Basel III**, as implemented in the U.S., banks are required to conduct an **Internal Capital Adequacy Assessment Process (ICAAP)**. This process includes assessing RNIV as part of the bank’s overall risk management and capital adequacy. Supervisors review the ICAAP results to ensure that banks hold sufficient capital for all material risks, including those outside VaR.
+   - The supervisory review process involves examining RNIV coverage in the bank’s internal models and validating the capital held against these exposures.
+
+### Summary of U.S. Approach to RNIV
+In the U.S., regulators require banks to address RNIV by:
+   - Holding additional capital for risks not adequately covered by standard VaR (through sVaR, IRC, and CRM).
+   - Conducting rigorous model validation, back-testing, and scenario analysis.
+   - Integrating RNIV into broader risk management frameworks, such as ICAAP and stress testing.
+
+While RNIV is not always explicitly defined, the U.S. regulatory framework mandates comprehensive risk capture, requiring institutions to proactively manage and capitalize any risks falling outside traditional VaR modeling.
